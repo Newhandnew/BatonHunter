@@ -30,7 +30,7 @@ $(document).ready(function() {
             base: 27,
             treasure: 1,
             monster1: 1,
-            monster2: 1
+            monster2: 0         // set treasure probility to 0 temperary, and I don't know why is this parameter.
         },
         slots: [{
             selector: '#slots-1',
